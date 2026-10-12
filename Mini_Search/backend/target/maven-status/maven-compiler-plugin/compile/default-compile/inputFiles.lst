@@ -1,0 +1,11 @@
+C:\DSA-3\Mini_Search\backend\src\main\java\com\minsearchexample\backend\BackendApplication.java
+C:\DSA-3\Mini_Search\backend\src\main\java\com\minsearchexample\backend\controller\SearchController.java
+C:\DSA-3\Mini_Search\backend\src\main\java\com\minsearchexample\backend\dsa\ExactSearch.java
+C:\DSA-3\Mini_Search\backend\src\main\java\com\minsearchexample\backend\dsa\FuzzySearch.java
+C:\DSA-3\Mini_Search\backend\src\main\java\com\minsearchexample\backend\dsa\InvertedIndex.java
+C:\DSA-3\Mini_Search\backend\src\main\java\com\minsearchexample\backend\dsa\PhraseSearch.java
+C:\DSA-3\Mini_Search\backend\src\main\java\com\minsearchexample\backend\dsa\Ranking.java
+C:\DSA-3\Mini_Search\backend\src\main\java\com\minsearchexample\backend\dsa\SimilaritySearch.java
+C:\DSA-3\Mini_Search\backend\src\main\java\com\minsearchexample\backend\model\Document.java
+C:\DSA-3\Mini_Search\backend\src\main\java\com\minsearchexample\backend\model\SearchResult.java
+C:\DSA-3\Mini_Search\backend\src\main\java\com\minsearchexample\backend\service\SearchService.java
